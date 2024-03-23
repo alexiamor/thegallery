@@ -10,7 +10,7 @@ window.onload = () => {
 
         preload() {
             // Carga la imagen que deseas utilizar
-            this.load.image("background", "../assets/img/fondo.svg");
+            this.load.image("background", "assets/img/fondo.svg");
             this.load.image("startButton", "../assets/img/icon.svg");
             this.load.json(`questions`, `../assets/data/data.json`);
             this.load.image("character", "../assets/img/character.png");
