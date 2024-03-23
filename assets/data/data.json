@@ -1,0 +1,50 @@
+[
+    {
+        "respuesta_correcta":"Miguel Angel",
+        "respuesta_incorrecta":"Sandro Boticelli",
+        "reply_right": "Bravo!!",
+        "reply_wrong": "No eres renacentista, boo!!"
+    },
+    {
+        "respuesta_incorrecta":  "Donatello",
+        "respuesta_correcta": "Rafael Sanzio",
+        "reply_right": "Yesss!!",
+        "reply_wrong": "Haber si estudiamos..."
+    },
+    {
+        "respuesta_incorrecta": "Masaccio",
+        "respuesta_correcta": "Sandro Botticelli",
+        "reply_right": "Estaba chupado!",
+        "reply_wrong": "¡Pero si está en todos lados!"
+    },
+    {
+        "respuesta_correcta":"El Bosco",
+        "respuesta_incorrecta":"Diego Velázquez",
+        "reply_right": "Estás en racha!",
+        "reply_wrong": "¡Qué fuerte! Si es icónico..."
+    },
+    {
+        "respuesta_correcta": "Théodore Géricault",
+        "respuesta_incorrecta":"Eugene Delacroix",
+        "reply_right": "Así me gusta, viva el Romanticismo!",
+        "reply_wrong": "Te toca un repaso ya de ya."
+    },
+    {
+        "respuesta_incorrecta": "Fra Filippo Lippi",
+        "respuesta_correcta": "Sandro Botticelli",
+        "reply_right": "Qué bonita que es!",
+        "reply_wrong": "Cómo no te sabes esta."
+    },
+    {
+        "respuesta_correcta":"Alexandre Cabanel",
+        "respuesta_incorrecta": "Tiziano",
+        "reply_right": "Eres mi alumno favorito!",
+        "reply_wrong": "No te agobies, respira."
+    },
+    {
+        "respuesta_correcta":  "Johann Heinrich Füssli",
+        "respuesta_incorrecta":"John Everett Millais",
+        "reply_right": "¡Qué mal cuerpo, pero bien hecho!",
+        "reply_wrong": "Con tal de no mirar..."
+    }
+]
