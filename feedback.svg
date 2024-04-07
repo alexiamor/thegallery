@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="874" height="383" viewBox="0 0 874 383">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #c3c3c3;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="Rectángulo_1" data-name="Rectángulo 1" class="cls-1" d="M80,25H801.982a51,51,0,0,1,51,51V306.083a51,51,0,0,1-51,51H80a51,51,0,0,1-51-51V76A51,51,0,0,1,80,25Z"/>
+</svg>

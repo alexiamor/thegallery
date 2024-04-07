@@ -1,0 +1,66 @@
+[
+    {
+        "respuesta_correcta":   "Miguel Ángel",
+        "respuesta_incorrecta":   "Sandro Boticelli",
+        "reply_right": "Bravo!!",
+        "reply_wrong": "No eres renacentista!!",
+        "right_info": "Un dato curioso sobre La Creación de Adán de Miguel Ángel es que hay similitudes entre la forma en que se representa el cerebro humano y la médula espinal en la obra, lo que ha llevado a especulaciones sobre su significado.",
+        "wrong_info": "Título: La Creación de Adán\nArtista: Miguel Ángel\nFecha: Alrededor de 1512\nMovimiento: Renacimiento\nMedio: Fresco\nUbicación: Capilla Sixtina, Ciudad del Vaticano"
+    },
+    {
+        "respuesta_incorrecta":  "Donatello",
+        "respuesta_correcta": "Rafael Sanzio",
+        "reply_right": "Yesss!!",
+        "reply_wrong": "A ver si estudiamos...",
+        "right_info": "En La Escuela de Atenas de Rafael Sanzio, los estudiosos han sugerido que cada figura representa a un filósofo real de la antigua Grecia o del Renacimiento, incluido el propio Rafael y Leonardo da Vinci.",
+        "wrong_info": "Título: La Escuela de Atenas\nArtista: Rafael Sanzio\nFecha: 1509-1511\nMovimiento: Renacimiento\nMedio: Fresco\nUbicación: Stanza della Segnatura, Palacio Apostólico, Ciudad del Vaticano"
+    },
+    {
+        "respuesta_incorrecta": "Masaccio",
+        "respuesta_correcta": "Sandro Botticelli",
+        "reply_right": "Estaba chupado!",
+        "reply_wrong": "¡Si está en \ntodos lados!",
+        "right_info":" En El nacimiento de Venus de Botticelli, la figura de Venus está inspirada en la Venus clásica y la representación de la diosa griega de la belleza, Afrodita.",
+        "wrong_info":"Título: El nacimiento de Venus\nArtista: Sandro Botticelli\nFecha: Mediados de la década de 1480\nMovimiento: Renacimiento temprano\nMedio: Pintura al temple sobre lienzo\nUbicación: Galería Uffizi, Florencia, Italia"
+    },
+    {
+        "respuesta_correcta":"El Bosco",
+        "respuesta_incorrecta":"Diego Velázquez",
+        "reply_right": "Estás en racha!",
+        "reply_wrong": "¡Qué fuerte!\n Si es icónico...",
+        "right_info":" En El jardín de las delicias de El Bosco, la obra está llena de simbolismos y misterios, con interpretaciones que van desde representaciones religiosas hasta alegorías sobre la naturaleza humana y el pecado.",
+        "wrong_info":"Título: El jardín de las delicias\nArtista: Hieronymus Bosch\nFecha: Alrededor de 1490-1510\nMovimiento: Pintura flamenca\nMedio: Óleo sobre tabla\nUbicación: Museo del Prado, Madrid, España"
+    },
+    {
+        "respuesta_correcta": "Théodore Géricault",
+        "respuesta_incorrecta":"Eugene Delacroix",
+        "reply_right": "Así me gusta, \nviva el Romanticismo!",
+        "reply_wrong": "Te toca un repaso.",
+        "right_info":"La balsa de la Medusa de Théodore Géricault provocó un gran escándalo cuando se exhibió en el Salón de París en 1819 debido a su representación vívida y cruda de la tragedia del naufragio del barco francés Medusa.",
+        "wrong_info":"Título: La balsa de la Medusa\nArtista: Théodore Géricault\nFecha: 1818-1819\nMovimiento: Romanticismo\nMedio: Pintura al óleo sobre lienzo\nUbicación: Museo del Louvre, París, Francia"
+    },
+    {
+        "respuesta_incorrecta": "Fra Filippo Lippi",
+        "respuesta_correcta": "Sandro Botticelli",
+        "reply_right": "Qué bonita que es!",
+        "reply_wrong": "Cómo no te\n sabes esta.",
+        "right_info":"La Primavera de Botticelli es conocida por su complejo simbolismo, donde cada figura y elemento representa una alegoría sobre el renacimiento, la fertilidad y el amor.",
+        "wrong_info":"Título: La Primavera\nArtista: Sandro Botticelli\nFecha: Alrededor de 1482\nMovimiento: Renacimiento temprano\nMedio: Pintura al temple sobre tabla de madera\nUbicación: Galería Uffizi, Florencia, Italia"
+    },
+    {
+        "respuesta_correcta": "Alexandre Cabanel",
+        "respuesta_incorrecta": "Tiziano",
+        "reply_right": "Eres mi alumno \nfavorito!",
+        "reply_wrong": "No te agobies, respira.",
+        "right_info":"La Venus de Alexandre Cabanel fue objeto de controversia en su época debido a su representación idealizada y sensual del cuerpo femenino, que desafiaba las normas conservadoras del arte académico del siglo XIX.",
+        "wrong_info":"Título: La Venus\nArtista: Alexandre Cabanel\nFecha: 1863\nMovimiento: Academicismo\nMedio: Pintura al óleo sobre lienzo\nUbicación: Museo de Orsay, París, Francia"
+    },
+    {
+        "respuesta_correcta": "Johann Heinrich Füssli",
+        "respuesta_incorrecta": "John Everett Millais",
+        "reply_right": "¡Qué mal cuerpo,\n pero bien hecho!",
+        "reply_wrong": "Con tal de no mirar...",
+        "right_info":"La pesadilla de Johann Heinrich Füssli es conocida por su representación visualmente impactante de una experiencia onírica perturbadora, con una figura demoníaca y un caballo blanco que simboliza una pesadilla.",
+        "wrong_info":"Título: La pesadilla\nArtista: Johann Heinrich Füssli (también conocido como Henry Fuseli)\nFecha: 1781\nMovimiento: Romanticismo\nMedio: Pintura al óleo sobre lienzo\nUbicación: Galería de Arte de Detroit, Estados Unidos"
+    }
+]
